@@ -415,5 +415,15 @@
 			"proportionaltoparent"	"1"
 			"auto_wide_tocontents"	"1"
 		}
-	}
+
+        "ChargeMeter"
+        {
+            "ControlName"	"CCrosshairChargeMeter"
+                "fieldName"	"CCrosshairChargeMeter"
+                "visible"		"1"
+                "xpos"			"c-80"
+                "ypos"			"c-20"
+                ...
+        }
+    }
 }
